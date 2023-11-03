@@ -15,3 +15,19 @@ The Dynamic CSS Class Prefixer is a tool that allows users to automatically add 
 - HTML Class Prefixing: Parses the input HTML file and prefixes all class names, ensuring they do not conflict with existing styles.
 - CSS Class Prefixing: Reads the input CSS file and adds prefixes to all class names, maintaining consistency with the modified HTML file.
 - Output Files: Generates modified HTML and CSS files with the prefixed class names for users to download and integrate into their projects.
+
+
+
+<!-- How to Use:
+
+Input Files: Provide the HTML and CSS files you want to modify.
+Processing: The tool will process the input files, adding prefixes to the class names.
+Output: Download the modified HTML and CSS files with the prefixed class names.
+Integration: Replace the original files in your project with the modified ones to prevent class conflicts and ensure smooth integration. -->
+
+## How to Use
+
+1. Input Files: Provide the HTML and CSS files you want to modify.
+2. Processing: The tool will process the input files, adding prefixes to the class names.
+3. Output: Download the modified HTML and CSS files with the prefixed class names.
+4. Integration: Replace the original files in your project with the modified ones to prevent class conflicts and ensure smooth integration.
