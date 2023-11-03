@@ -1,0 +1,33 @@
+.mod-container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.mod-title {
+  font-size: 24px;
+  color: #333;
+}
+
+.mod-content {
+  margin-top: 20px;
+}
+
+.mod-text {
+  font-size: 16px;
+  color: #555;
+}
+
+.mod-btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.mod-btn-primary:hover {
+  background-color: #0056b3;
+}
