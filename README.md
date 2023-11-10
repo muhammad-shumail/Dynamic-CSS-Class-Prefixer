@@ -1,6 +1,8 @@
 
 # Dynamic CSS Class Prefixer
 
+## Description
+
 Introducing the Dynamic CSS Class Prefixer, a lifesaver for WordPress developers dealing with the challenges of integrating custom HTML and CSS sections into their projects. As many WordPress themes rely on the Bootstrap framework for styling, conflicts often arise when attempting to implement custom styles, leading to a mismatched and unappealing website layout.
 
 In my own WordPress project, I encountered this issue firsthand. Despite extensive searches and consultations on platforms like Stack Overflow, finding a solution proved elusive. Online tools failed to address the problem adequately, leaving me frustrated and time-strapped.
